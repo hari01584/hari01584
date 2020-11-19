@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari01584" alt="hari01584" /></a> </p>
 
-- 🔭 I’m currently working on [Minecraft Revamped](https://github.com/hari01584/MC-Multiplayer-Revamped)
+- 🔭 I’m currently working on [NextGen Minecraft Multiplayer](https://github.com/hari01584/NextGen-Minecraft-Multiplayer)
 
 - 🌱 I’m currently learning **3D Modelling, Gamedev**
 
 - 👯 I’m looking to collaborate on [Open Source projects from gsoc](https://summerofcode.withgoogle.com/)
 
-- 🤝 I’m looking for help with [Minecraft Revamped](https://github.com/hari01584/MC-Multiplayer-Revamped)
+- 🤝 I’m looking for help with [NextGen Minecraft Multiplayer](https://github.com/hari01584/NextGen-Minecraft-Multiplayer)
 
 - 👨‍💻 My personal site? [http://me.skullzbones.com/](http://me.skullzbones.com/)
 
