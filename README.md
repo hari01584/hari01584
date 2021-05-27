@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari01584" alt="hari01584" /></a> </p>
 
-- 🔭 I’m currently working on [NextGen Minecraft Multiplayer](https://github.com/hari01584/NextGen-Minecraft-Multiplayer)
+- 🔭 I’m currently working on [libMcServerProxy](https://github.com/hari01584/libMcServerProxy)
 
 - 🌱 I’m currently learning **3D Modelling, Gamedev**
 
-- 👯 I’m looking to collaborate on [Open Source projects from gsoc](https://summerofcode.withgoogle.com/)
+- 👯 I’m looking to collaborate on any great idea!
 
-- 🤝 I’m looking for help with [NextGen Minecraft Multiplayer](https://github.com/hari01584/NextGen-Minecraft-Multiplayer)
+- 🤝 I’m looking for help with [libMcServerProxy](https://github.com/hari01584/libMcServerProxy)
 
 - 👨‍💻 My personal site? [http://me.skullzbones.com/](http://me.skullzbones.com/)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hsk4link/](https://www.linkedin.com/in/hsk4link/)
 
-- ⚡ Fun fact **I think i am funny, like to make people laugh!!**
+- ⚡ Fun fact **The syntax of C# language is similar to the C-style family such as Java, C, C++.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
