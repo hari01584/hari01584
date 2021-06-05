@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hari01584@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hsk4link/](https://www.linkedin.com/in/hsk4link/)
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **The syntax of C# language is similar to the C-style family such as Java, C, C++.**
 
