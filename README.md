@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, PHP, DS/Algo, Networking/Sockets**
 
-- 📫 How to reach me **hari01584@gmail.com** or **Agent_Orange#9852**
+- 📫 How to reach me **hari01584@gmail.com** or **Agent_Orange#9852 (Discord)**
 
 - 📄 Know about my experiences []()
 
