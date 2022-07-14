@@ -27,6 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Revelations About the Thapar WiFi, and the Utilities Regarding Them! [EACCESS, TU, LC, etc]](https://withme.skullzbones.com/blog/programming/revelations-about-the-thapar-wifi-and-the-utilities-regarding-them-eaccess-tu-lc-etc/)
+- [Self Hosted Free VPN Using Azure Student Plan with &lpar;@.edu&rpar; Accounts. [Unblock Fortinet]](https://withme.skullzbones.com/blog/programming/self-hosted-free-vpn-using-azure-student-plan-with-edu-accounts-unblock-fortinet/)
+- [Execute Native Binaries Android Q+ &lpar;No Root&rpar;](https://withme.skullzbones.com/blog/programming/execute-native-binaries-android-q-no-root/)
+- [Welcome](https://withme.skullzbones.com/blog/others/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
