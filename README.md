@@ -27,10 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacking Safe Exam Browser(s), Bypassing VM Detection](https://withme.skullzbones.com/blog/programming/hacking-safe-exam-browsers-bypassing-vm-detection/)
+- [Almanac for Clearing Google Summer of Code (GSoC)](https://withme.skullzbones.com/blog/programming/almanac-for-clearing-google-summer-of-code-gsoc/)
 - [Revelations About the Thapar WiFi, and the Utilities Regarding Them! [EACCESS, TU, LC, etc]](https://withme.skullzbones.com/blog/programming/revelations-about-the-thapar-wifi-and-the-utilities-regarding-them-eaccess-tu-lc-etc/)
 - [Self Hosted Free VPN Using Azure Student Plan with &lpar;@.edu&rpar; Accounts. [Unblock Fortinet]](https://withme.skullzbones.com/blog/programming/self-hosted-free-vpn-using-azure-student-plan-with-edu-accounts-unblock-fortinet/)
 - [Execute Native Binaries Android Q+ &lpar;No Root&rpar;](https://withme.skullzbones.com/blog/programming/execute-native-binaries-android-q-no-root/)
-- [Welcome](https://withme.skullzbones.com/blog/others/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -38,7 +39,6 @@
 <a href="https://linkedin.com/in/hsk4link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsk4link" height="30" width="40" /></a>
 <a href="https://medium.com/@styllymyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@styllymyle" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hskleetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hskleetcode" height="30" width="40" /></a>
-<a href="/https://withme.skullzbones.com/blog/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://withme.skullzbones.com/blog/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
